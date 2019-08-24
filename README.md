@@ -24,7 +24,9 @@ Para entregar o exercício, responda o [formulário de entrega](https://forms.gl
 | Passo | Completou? |
 | ------ | ------ |
 | 1 | **Sim** |
-| 2 | **não** |
-| 3 | **não** |
-| 4 | **não** |
-| 5 | **não** |
+| 2 | **Sim** |
+| 3 | **Sim** |
+| 4 | **Sim** |
+| 5 | **Metade** |
+
+**Por alguma razão o text `text_info` mesmo estando sendo salvo como o `text_calc` continua desaparecendo na mudança de configuração**
